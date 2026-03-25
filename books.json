@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The 48 Laws Of Power",
+    "file": "Books/The 48 Laws Of Power.pdf",
+    "colors": [
+      "#667eea",
+      "#764ba2"
+    ]
+  },
+  {
+    "title": "The 12 Best Happiness Books",
+    "file": "Books/The-12-Best-Happiness-Books.pdf",
+    "colors": [
+      "#f093fb",
+      "#f5576c"
+    ]
+  },
+  {
+    "title": "The 7 Best Habit Books",
+    "file": "Books/The-7-Best-Habit-Books.pdf",
+    "colors": [
+      "#4facfe",
+      "#00f2fe"
+    ]
+  },
+  {
+    "title": "The 14 Best Finance Books For 2020",
+    "file": "Books/The_14_Best_Finance_Books_For_2020.pdf",
+    "colors": [
+      "#43e97b",
+      "#38f9d7"
+    ]
+  }
+]
